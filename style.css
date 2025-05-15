@@ -31,3 +31,27 @@ footer {
   padding: 20px;
   margin-top: 40px;
 }
+.projects .card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.projects .card:hover {
+  transform: scale(1.02);
+}
+
+.projects .card h3 {
+  margin-top: 0;
+  color: #253B7D;
+}
+
+.projects .card a {
+  text-decoration: none;
+  color: #ff9900;
+  font-weight: bold;
+}

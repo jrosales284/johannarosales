@@ -11,7 +11,9 @@ header {
   color: white;
   padding: 40px 20px;
   text-align: center;
-}.hero {
+}
+
+.hero {
   background: linear-gradient(120deg, #253B7D, #FF9900);
   padding: 60px 20px;
   color: white;
@@ -19,7 +21,6 @@ header {
   border-radius: 0 0 20px 20px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
-
 
 section {
   padding: 20px;
@@ -39,6 +40,7 @@ footer {
   padding: 20px;
   margin-top: 40px;
 }
+
 .projects .card {
   background-color: #fff;
   border: 1px solid #ddd;
